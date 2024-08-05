@@ -25,10 +25,8 @@ Welcome to my GitHub profile! I am a passionate computer scientist with a keen i
 
 ## Fun Fact
 
-[Share a fun fact about yourself!]
+I might wake up tomorrow to start bulding rockets, haha!
 
 ---
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or just chat about tech.
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=cyboghostginx.cyboghostginx)
