@@ -6,18 +6,17 @@ Welcome to my GitHub profile! I am a passionate computer scientist with a keen i
 
 ## About
 
-- 🎓 **Education:** [Your Degree] from [Your University]
-- 💼 **Current Role:** [Your Job Title] at [Your Company]
-- 🌟 **Specialties:** [Your Key Skills, e.g., Full-Stack Development, AI/ML, DevOps]
-- 🌱 **Currently Learning:** [What you're currently learning]
-- 💬 **Ask me about:** [Topics you are knowledgeable in]
-- 📫 **How to reach me:** [Your Email Address]
+- 🎓 **Education:** Bsc from ESAE University | Msc from University of Iceland (In progress)
+- 💼 **Current Role:** Currently working on personal projects 😀
+- 🌟 **Specialties:** cybersecurity, AI/ML, and App/Web Development
+- 🌱 **Currently Learning:** Computer Science
+- 📫 **How to reach me:** me@adetayo.dev
 
 ## My Skills
 
-- **Programming Languages:** [Languages you are proficient in, e.g., Python, JavaScript, C++]
-- **Frameworks & Libraries:** [Frameworks and libraries you use, e.g., React, Node.js, TensorFlow]
-- **Tools & Platforms:** [Tools and platforms you work with, e.g., Docker, AWS, GitHub Actions]
+- **Programming Languages:** Python, SQL, Javascript
+- **Frameworks & Libraries:** React
+- **Tools & Platforms:** AWS, Docker, Google cloud e.t.c
 
 ## GitHub Stats
 
