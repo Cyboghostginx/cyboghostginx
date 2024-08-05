@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a passionate software developer with a keen interest in [Your Interests/Specialties].
 
-![Profile Banner](profile-banner.png)
+![Profile Banner](hacker1.jpeg)
 
 ## About Me
 
