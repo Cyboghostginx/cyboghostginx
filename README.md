@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a passionate computer scientist with a keen i
 
 ![Profile Banner](hacker1.jpeg)
 
-## About Me
+## About
 
 - 🎓 **Education:** [Your Degree] from [Your University]
 - 💼 **Current Role:** [Your Job Title] at [Your Company]
@@ -19,31 +19,9 @@ Welcome to my GitHub profile! I am a passionate computer scientist with a keen i
 - **Frameworks & Libraries:** [Frameworks and libraries you use, e.g., React, Node.js, TensorFlow]
 - **Tools & Platforms:** [Tools and platforms you work with, e.g., Docker, AWS, GitHub Actions]
 
-## Projects
-
-Here are a few of my notable projects:
-
-1. **[Project Name](link-to-project)**
-   - *Description:* [Brief description of the project]
-   - *Technologies Used:* [Technologies used in the project]
-
-2. **[Project Name](link-to-project)**
-   - *Description:* [Brief description of the project]
-   - *Technologies Used:* [Technologies used in the project]
-
-3. **[Project Name](link-to-project)**
-   - *Description:* [Brief description of the project]
-   - *Technologies Used:* [Technologies used in the project]
-
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyboghostginx&show_icons=true&theme=radical)
-
-## Connect with Me
-
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- **Website/Blog:** [Your Website/Blog](https://yourwebsite.com)
 
 ## Fun Fact
 
@@ -53,4 +31,4 @@ Here are a few of my notable projects:
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or just chat about tech.
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=cyboghostginx.cyboghostginx)
