@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name]! 👋
+# Hi 👋
 
-Welcome to my GitHub profile! I am a passionate software developer with a keen interest in [Your Interests/Specialties].
+Welcome to my GitHub profile! I am a passionate computer scientist with a keen interest in cybersecurity, AI/ML, and App/Web Development.
 
 ![Profile Banner](hacker1.jpeg)
 
@@ -37,7 +37,7 @@ Here are a few of my notable projects:
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyboghostginx&show_icons=true&theme=radical)
 
 ## Connect with Me
 
