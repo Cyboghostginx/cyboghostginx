@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a passionate computer scientist with a keen i
 - 💼 **Current Role:** Currently working on personal projects 😀
 - 🌟 **Specialties:** cybersecurity, AI/ML, and App/Web Development
 - 🌱 **Currently Learning:** Computer Science
-- 📫 **How to reach me:** me@adetayo.dev
+- 📫 **How to reach me:** ama59@hi.is
 
 ## My Skills
 
