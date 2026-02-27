@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I am a passionate computer scientist with a keen i
 
 ## About
 
-- 🎓 **Education:** Bsc from ESAE University | Msc from University of Iceland (In progress)
+- 🎓 **Education:** Msc in Computer Science from University of Iceland
 - 💼 **Current Role:** Currently working on personal projects 😀
-- 🌟 **Specialties:** cybersecurity, AI/ML, and App/Web Development
+- 🌟 **Specialties:** Cybersecurity, AI/ML, and App/Web Development
 - 🌱 **Currently Learning:** Computer Science
 - 📫 **How to reach me:** ama59@hi.is
 
