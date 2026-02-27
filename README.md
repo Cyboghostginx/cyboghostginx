@@ -10,17 +10,13 @@ Welcome to my GitHub profile! I am a passionate computer scientist with a keen i
 - 💼 **Current Role:** Currently working on personal projects 😀
 - 🌟 **Specialties:** Cybersecurity, AI/ML, and App/Web Development
 - 🌱 **Currently Learning:** Computer Science
-- 📫 **How to reach me:** ama59@hi.is
+- 📫 **How to reach me:** ama59@hi.is https://huggingface.co/cyboghostginx
 
 ## My Skills
 
 - **Programming Languages:** Python, SQL, Javascript
 - **Frameworks & Libraries:** React
 - **Tools & Platforms:** AWS, Docker, Google cloud e.t.c
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyboghostginx&show_icons=true&theme=radical)
 
 ## Fun Fact
 
