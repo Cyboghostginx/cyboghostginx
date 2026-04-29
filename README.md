@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a passionate computer scientist with a keen i
 - 💼 **Current Role:** Currently working on personal projects 😀
 - 🌟 **Specialties:** Cybersecurity, AI/ML, and App/Web Development
 - 🌱 **Currently Learning:** Computer Science
-- 📫 **How to reach me:** ama59@hi.is |  [Cyboghostginx Hugging Face](https://huggingface.co/cyboghostginx) | [Cyboghostginx Ollama Page](https://ollama.com/Cyboghost)
+- 📫 **How to reach me:** ama59@hi.is cyboghost0@gmail.com |  [Cyboghostginx Hugging Face](https://huggingface.co/cyboghostginx) | [Cyboghostginx Ollama Page](https://ollama.com/Cyboghost)
 
 ## My Skills
 
