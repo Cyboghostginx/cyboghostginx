@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a passionate computer scientist with a keen interest in cybersecurity, AI/ML, and App/Web Development.
 
-![Profile Banner](hacker1.jpeg)
+![Profile Banner](suttlemedia-multi-verse-7970350_1920.jpeg)
 
 ## About
 
